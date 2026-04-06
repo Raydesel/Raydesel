@@ -13,5 +13,3 @@
 **Contact:** [raydeselariels@gmail.com](mailto:raydeselariels@gmail.com) · Creel, Chihuahua, Mexico
 
 ---
-
-*Pinned repositories are curated for recruiters: data platforms and pipelines first.*
