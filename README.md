@@ -1,4 +1,4 @@
-### Hi, I'm Raydesel (Ariel Sánchez Montes)
+### Hi, I'm Raydesel
 
 **Data Engineer** with an M.Sc. in Computer Engineering. I build **serverless ELT/lakehouses** and **batch pipelines** on **AWS** (Glue, Athena, S3, Redshift, Iceberg), orchestrate with **Apache Airflow**, model with **dbt**, and provision with **Terraform**. I also ship **Python/Django** services on **PostgreSQL**.
 
