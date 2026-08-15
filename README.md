@@ -11,7 +11,7 @@ AWS (S3, Glue, Athena) · dbt · PySpark · Terraform
 
 - **Market Basket Analysis** — [Instacart_Market_Basket_Analysis](link):  
   3.2M orders · Python, DuckDB SQL, Power BI · 
-  [▶ Full walkthrough on YouTube]([your youtube link](https://www.youtube.com/watch?v=7VMaxHJtwpw))
+  [▶ Full walkthrough on YouTube](https://www.youtube.com/watch?v=7VMaxHJtwpw)
 
 - **Serverless Data Lakehouse** — [olist-data-lakehouse](link):  
   AWS Glue, Athena, S3, dbt, Airflow · Kimball-style modeling
