@@ -1,15 +1,24 @@
-### Hi, I'm Raydesel
+## Hi, I'm Raydesel
 
-**Data Engineer** with an M.Sc. in Computer Engineering. I build **serverless ELT/lakehouses** and **batch pipelines** on **AWS** (Glue, Athena, S3, Redshift, Iceberg), orchestrate with **Apache Airflow**, model with **dbt**, and provision with **Terraform**. I also ship **Python/Django** services on **PostgreSQL**.
+**Data Analyst** with an M.Sc. in Computer Engineering (AI/ML focus).  
+I build end-to-end analytics projects — raw data → SQL analysis → 
+interactive dashboards — and document everything publicly.
 
-**Stack:** Python · SQL · PySpark · Airflow · dbt · Terraform · Docker · AWS · PostgreSQL
+**Stack:** SQL · Python · Power BI · DAX · DuckDB · 
+AWS (S3, Glue, Athena) · dbt · PySpark · Terraform
 
 **Featured work**
 
-- **Lakehouse / ELT** — [olist-data-lakehouse](https://github.com/Raydesel/olist-data-lakehouse): automated serverless pipeline (AWS Glue, Athena, dbt, Airflow).
-- **Telemetry-style research pipeline** — [Drone-Q-Learning](https://github.com/Raydesel/Drone-Q-Learning): MSc thesis — Q-learning paths from maps, batch experiment outputs, ROS/Gazebo waypoint handoff (see README *Data engineering angle*).
-- **Audio feature pipeline** — [EmotionRecognitionSpeech](https://github.com/Raydesel/EmotionRecognitionSpeech): cleaning, normalization, MFCC & spectral features for ML.
+- **Market Basket Analysis** — [Instacart_Market_Basket_Analysis](link):  
+  3.2M orders · Python, DuckDB SQL, Power BI · 
+  [▶ Full walkthrough on YouTube]([your youtube link](https://www.youtube.com/watch?v=7VMaxHJtwpw))
 
-**Contact:** [raydeselariels@gmail.com](mailto:raydeselariels@gmail.com) · Creel, Chihuahua, Mexico
+- **Serverless Data Lakehouse** — [olist-data-lakehouse](link):  
+  AWS Glue, Athena, S3, dbt, Airflow · Kimball-style modeling
 
----
+- **Streaming Pipeline** — [yt-kafka-pipeline](link):  
+  Real-time YouTube trending data · Kafka · Streamlit
+
+**Contact:** raydeselariels@gmail.com · Creel, Chihuahua, Mexico  
+**LinkedIn:** https://www.linkedin.com/in/raydesel/  
+**YouTube:** https://www.youtube.com/@RaydeselArielSanchezMontes
